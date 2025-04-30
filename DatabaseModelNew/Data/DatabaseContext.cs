@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using DatabaseModel.Model;
+using Microsoft.EntityFrameworkCore;
+
+namespace DatabaseModel.Data
+{
+    public class DatabaseContext : DbContext
+    {
+        public DbSet<ProductType> ProductTypes { get; set; }
+
+        public DatabaseContext(DbContextOptions<DatabaseContext> options): base(options)
+        {
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<ProductType>().HasKey(pt => pt.PT_ID);
+            base.OnModelCreating(modelBuilder);
+        }
+    }
+}

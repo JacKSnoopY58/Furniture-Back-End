@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Ecommerce.API",
+    "version": "1.0"
+  },
+  "paths": {
+    "/test/public": {
+      "get": {
+        "tags": [
+          "Ecommerce"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/test/secure": {
+      "get": {
+        "tags": [
+          "Ecommerce"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

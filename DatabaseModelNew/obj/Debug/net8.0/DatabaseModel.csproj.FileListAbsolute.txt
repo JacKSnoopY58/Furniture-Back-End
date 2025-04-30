@@ -1,0 +1,6 @@
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\ConsoleApp1\obj\Debug\net8.0\DatabaseModel.csproj.AssemblyReference.cache
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\ConsoleApp1\obj\Debug\net8.0\DatabaseModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\ConsoleApp1\obj\Debug\net8.0\DatabaseModel.AssemblyInfoInputs.cache
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\ConsoleApp1\obj\Debug\net8.0\DatabaseModel.AssemblyInfo.cs
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\ConsoleApp1\obj\Debug\net8.0\DatabaseModel.csproj.CoreCompileInputs.cache
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\ConsoleApp1\obj\Debug\net8.0\DatabaseModel.MvcApplicationPartsAssemblyInfo.cache

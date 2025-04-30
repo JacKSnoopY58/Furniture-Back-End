@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Ecommerch.API.Controllers.EcommerceController",
+    "Method": "GetPublicData",
+    "RelativePath": "test/public",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Ecommerch.API.Controllers.EcommerceController",
+    "Method": "GetSecureData",
+    "RelativePath": "test/secure",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,12 @@
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\bin\Debug\net8.0\DatabaseModelNew.deps.json
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\bin\Debug\net8.0\DatabaseModelNew.dll
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\bin\Debug\net8.0\DatabaseModelNew.pdb
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.AssemblyInfoInputs.cache
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.AssemblyInfo.cs
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.csproj.CoreCompileInputs.cache
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.dll
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\refint\DatabaseModelNew.dll
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.pdb
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\ref\DatabaseModelNew.dll
+D:\Work\Furniture-Ecom-Back-End\Ecommerch.API\DatabaseModelNew\obj\Debug\net8.0\DatabaseModelNew.csproj.AssemblyReference.cache
