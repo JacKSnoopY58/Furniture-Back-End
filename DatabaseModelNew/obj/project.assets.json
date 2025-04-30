@@ -632,11 +632,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\DatabaseModelNew\\DatabaseModelNew.csproj",
+      "projectUniqueName": "D:\\Work\\Furniture-Back-End\\DatabaseModelNew\\DatabaseModelNew.csproj",
       "projectName": "DatabaseModelNew",
-      "projectPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\DatabaseModelNew\\DatabaseModelNew.csproj",
+      "projectPath": "D:\\Work\\Furniture-Back-End\\DatabaseModelNew\\DatabaseModelNew.csproj",
       "packagesPath": "C:\\Users\\jjjch\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\DatabaseModelNew\\obj\\",
+      "outputPath": "D:\\Work\\Furniture-Back-End\\DatabaseModelNew\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

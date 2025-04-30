@@ -1727,11 +1727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\Ecommerch.API\\Ecommerce.API.csproj",
+      "projectUniqueName": "D:\\Work\\Furniture-Back-End\\Ecommerch.API\\Ecommerce.API.csproj",
       "projectName": "Ecommerce.API",
-      "projectPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\Ecommerch.API\\Ecommerce.API.csproj",
+      "projectPath": "D:\\Work\\Furniture-Back-End\\Ecommerch.API\\Ecommerce.API.csproj",
       "packagesPath": "C:\\Users\\jjjch\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\Ecommerch.API\\obj\\",
+      "outputPath": "D:\\Work\\Furniture-Back-End\\Ecommerch.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1753,11 +1753,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\DatabaseModelNew\\DatabaseModelNew.csproj": {
-              "projectPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\DatabaseModelNew\\DatabaseModelNew.csproj"
+            "D:\\Work\\Furniture-Back-End\\DatabaseModelNew\\DatabaseModelNew.csproj": {
+              "projectPath": "D:\\Work\\Furniture-Back-End\\DatabaseModelNew\\DatabaseModelNew.csproj"
             },
-            "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\ViewModel\\ViewModel.csproj": {
-              "projectPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\ViewModel\\ViewModel.csproj"
+            "D:\\Work\\Furniture-Back-End\\ViewModel\\ViewModel.csproj": {
+              "projectPath": "D:\\Work\\Furniture-Back-End\\ViewModel\\ViewModel.csproj"
             }
           }
         }

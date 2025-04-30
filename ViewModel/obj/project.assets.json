@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "D:\\Work\\Furniture-Back-End\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\ViewModel\\ViewModel.csproj",
+      "projectPath": "D:\\Work\\Furniture-Back-End\\ViewModel\\ViewModel.csproj",
       "packagesPath": "C:\\Users\\jjjch\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\ViewModel\\obj\\",
+      "outputPath": "D:\\Work\\Furniture-Back-End\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

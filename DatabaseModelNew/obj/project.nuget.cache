@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j0zsx4cRf7s=",
+  "dgSpecHash": "abfw/rI+lyw=",
   "success": true,
-  "projectFilePath": "D:\\Work\\Furniture-Ecom-Back-End\\Ecommerch.API\\DatabaseModelNew\\DatabaseModelNew.csproj",
+  "projectFilePath": "D:\\Work\\Furniture-Back-End\\DatabaseModelNew\\DatabaseModelNew.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jjjch\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.4\\microsoft.entityframeworkcore.9.0.4.nupkg.sha512",
     "C:\\Users\\jjjch\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.4\\microsoft.entityframeworkcore.abstractions.9.0.4.nupkg.sha512",
